@@ -1,32 +1,32 @@
 
-H1 {
+H1 {    /* с маленькой буквы */  
   color: #000080;
   font-size: 200%;
   font-family: Comic Sans MS, cursive;
   text-align: center;
-}
+} /* пробел забыл */  
 margin:0
 font-family: Comic Sans MS, cursive;
 }
 
 
-th {
+th { /* ужасное форматирование */  
 padding: 10px;
 border: 1px solid #black
 }
 
-table {
+table { /* ужасное форматирование */ 
  text-align: center;
  }
  
-td.col1 { background:  #AFEEEE; }
-td.col2 { background:  #9370DB; }
-p.col3 { background:  #9370DB; }
+td.col1 { background:  #AFEEEE; } /* ужасное форматирование */ 
+td.col2 { background:  #9370DB; } /* ужасное форматирование */ 
+p.col3 { background:  #9370DB; } /* ужасное форматирование */ 
 
-.rightpic { /* для лейбла без сылки*/
-    float: right; /* Выравнивание по правому краю */
-    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+.rightpic {  /* ужасное форматирование */ 
+    float: right; 
+    margin: 0 0 5px 5px; 
    }
- .rightcol { /* Правая ячейка */ 
+ .rightcol { /* ужасное форматирование */ 
     text-align: right;
- }	/* Выравнивание по правому краю */
+ }	
