@@ -1,0 +1,32 @@
+
+H1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Comic Sans MS, cursive;
+  text-align: center;
+}
+margin:0
+font-family: Comic Sans MS, cursive;
+}
+
+
+th {
+padding: 10px;
+border: 1px solid #black
+}
+
+table {
+ text-align: center;
+ }
+ 
+td.col1 { background:  #AFEEEE; }
+td.col2 { background:  #9370DB; }
+p.col3 { background:  #9370DB; }
+
+.rightpic { /* для лейбла без сылки*/
+    float: right; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+   }
+ .rightcol { /* Правая ячейка */ 
+    text-align: right;
+ }	/* Выравнивание по правому краю */
